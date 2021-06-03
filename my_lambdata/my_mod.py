@@ -19,4 +19,4 @@ def enlarge(n):
 if __name__ == "__main__":
     print("HELLO")
     y = int(input('Please choose a number'))
-    print(y,enlarge(y))
+    print(y, enlarge(y))
